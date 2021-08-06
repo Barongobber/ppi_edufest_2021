@@ -1,0 +1,94 @@
+<<<<<<< HEAD
+<div class="carousel-inner">
+                    <div class="item active">
+                        <div class="col-12 col-md-4">
+                         <!-- Card -->
+                         <div class="card">
+                          <!-- Card image -->
+                          <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/images/43.jpg" alt="Card image cap">
+                        </div>
+                        <!-- Card -->
+                      </div>
+                    </div>
+                    <div class="item">
+                      <div class="col-12 col-md-4">
+                        <div class="card">
+                          <!-- Card image -->
+                          <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/images/43.jpg" alt="Card image cap">
+                        </div>
+                         <!-- Card -->
+                     </div>
+                    </div>
+                    <div class="item">
+                      <div class="col-12 col-md-4">
+                        <div class="card">
+                          <!-- Card image -->
+                          <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/images/43.jpg" alt="Card image cap">
+                        </div>
+                         <!-- Card -->
+                     </div>
+                    </div>
+                    <div class="item">
+                      <div class="col-12 col-md-4">
+                        <div class="card">
+                          <!-- Card image -->
+                          <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/images/43.jpg" alt="Card image cap">
+                        </div>
+                         <!-- Card -->
+                     </div>
+                    </div>
+                    <div class="item">
+                      <div class="col-12 col-md-4">
+                        <div class="card">
+                          <!-- Card image -->
+                          <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/images/43.jpg" alt="Card image cap">
+                        </div>
+                         <!-- Card -->
+                     </div>
+                    </div>
+                    <div class="item">
+                      <div class="col-12 col-md-4">
+                        <!-- Card -->
+                        <div class="card">
+                          <!-- Card image -->
+                          <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/images/43.jpg" alt="Card image cap">
+                        </div>
+                         <!-- Card -->
+                     </div>
+                    </div>
+                  </div>
+=======
+ <!-- ***** Testimonials Area Start ***** -->
+  <section class="fancy-testimonials-area section-padding-100">
+    <div class="container w-100">
+        <div class="row">
+            <div class="col-12">
+                <div class="testimonials-slides owl-carousel">
+                    <!-- Single Testimonial -->
+                    <div class="single-testimonial d-md-flex align-items-center">
+                      <div class = "col-3"><img src="img/sponsor/spotify.png" alt="Sponsor">
+                      </div>
+                      <div class = "col-3"><img src="img/sponsor/spotify.png" alt="Sponsor">
+                      </div>
+                      <div class = "col-3"><img src="img/sponsor/spotify.png" alt="Sponsor">
+                      </div>
+                      <div class = "col-3"><img src="img/sponsor/spotify.png" alt="Sponsor">
+                      </div>
+                    </div>
+                    <div class="single-testimonial d-md-flex align-items-center">
+                      <div class = "col-3"><img src="img/sponsor/spotify.png" alt="Sponsor">
+                      </div>
+                      <div class = "col-3"><img src="img/sponsor/spotify.png" alt="Sponsor">
+                      </div>
+                      <div class = "col-3"><img src="img/sponsor/spotify.png" alt="Sponsor">
+                      </div>
+                      <div class = "col-3"><img src="img/sponsor/spotify.png" alt="Sponsor">
+                      </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ***** Testimonials Area End ***** -->
+>>>>>>> 3e49d4be09fafc4191428153da4b25d0411d5e52
